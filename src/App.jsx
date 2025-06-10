@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import './App.css';
 import UserContent from './components/UserContent';
 import { useCrud } from './hooks/useCrud';
-import Modal from './Components/Modal';
+import Modal from './components/Modal';
 import Form from './components/Form';
 import useModal from './hooks/useModal';
 
